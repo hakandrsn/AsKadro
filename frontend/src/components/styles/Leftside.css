@@ -1,0 +1,17 @@
+.bodyLeft {
+    width: 20%;
+    height: 100%;
+    margin-top: 7px;
+    border-radius: 7px;
+    background-color:whitesmoke;
+    padding: 10px 10px;
+    margin: 10px 10px;
+}
+.leftList{
+    list-style: none;
+}
+.leftList li {
+    text-align:left;
+    margin-bottom: 8px;
+    font-size: 18px;
+}
